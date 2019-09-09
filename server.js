@@ -1,6 +1,6 @@
-const express = require('express');
+const express = require("express");
 
-const db = require('./data/dbConfig.js');
+const db = require("./data/dbConfig.js");
 
 const server = express();
 
